@@ -9,4 +9,4 @@ Working as a therapist&cardiologist at "Napopravku", I have embraced the spirit 
 ## 🚀 Open to New Challenges
 I am interested in developing and supporting artificial intelligence models, decision support systems, and keeping up with the latest trends in biotechnology. I am ready to apply my knowledge and skills in Data Science projects, whether in medicine or any other field.
 
-Connect with me: [Telegram]([Your_Telegram_Link](https://t.me/alegorohovs))
+Connect with me: [Telegram](https://t.me/alegorohovs)
